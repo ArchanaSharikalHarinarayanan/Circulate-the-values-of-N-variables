@@ -31,7 +31,7 @@ def circulate():
     print("After circulating the values are:",l)
 ```
 ## Output:
-![output](/circulate.png)
+![output](/cirr.png)
 
 ## Result:
 end of the program
