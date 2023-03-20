@@ -6,14 +6,19 @@ PC
 Anaconda - Python 3.7
 ## Algorithm: 
 ### Step 1: 
+Define the user defined function name circulate()
 ### Step 2: 
+Declare the variable to store the value given by  the user 
 ### Step 3: 
 Get the value from the user for the number of rotation
 ### Step 4: 
 Using the slicing concept rotate the list
 
 ### Step 5: 
-### Step 6: 
+Assign the print statement 
+### Step 6:
+Print the program to get the output 
+
 ## Program:
 ```
 #Program to circulate N values.
